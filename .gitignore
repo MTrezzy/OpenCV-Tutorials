@@ -1,0 +1,4 @@
+assets/*.png
+assets/*.jpg
+env/
+**/*.ipynb_checkpoints/
